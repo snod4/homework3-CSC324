@@ -1,0 +1,4 @@
+<% provide(:title, "Help Page") %>
+
+<h1>Helppage#help</h1>
+<p>Find me in app/views/helppage/help.html.erb</p>

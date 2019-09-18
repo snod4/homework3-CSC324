@@ -1,0 +1,11 @@
+<% provide(:title, "Home") %>
+<h1>This is a header</h1>
+<div id = "navbar">
+  <ul>
+    <li>Option 1</li>
+    <li>Option 2</li>
+  </ul>
+</div>
+<a href="https://www.google.com/">Go To Google</a>
+ 
+
